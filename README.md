@@ -72,12 +72,16 @@ b.  KCL:
 Tabulation:
 
 a.   KVL:
- ![alt text](kvl_table.jpg)
+ 
+
+![WhatsApp Image 2025-12-26 at 8 50 15 PM (1)](https://github.com/user-attachments/assets/6721460e-52b5-4001-ab46-af94379f7986)
 
 
 
 b.  KCL:
-![alt text](kcl_table.jpg)
+
+![WhatsApp Image 2025-12-26 at 8 50 15 PM (2)](https://github.com/user-attachments/assets/e1ea0154-5d20-49f8-bf85-6ef1a4d878ab)
+
 
 
 RESULT:
